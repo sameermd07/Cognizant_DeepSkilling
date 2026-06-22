@@ -1,4 +1,11 @@
-Digital Nurture Program 4.0 Java FSE Weekly Submissions
-Name : Sakthivel D
-SuperSet ID : 6399414
-Email : svel7252@gmail.com
+# Cognizant DeepSkilling Java FSE Weekly Submissions
+
+Welcome to my repository! This space contains my weekly assignments, projects, and code submissions for the Cognizant DeepSkilling Java Full Stack Engineer (FSE) program.
+
+## 👤 Trainee Details
+
+* **Name:** Mohammed Sameer
+* **SuperSet ID:** 8013617
+* **Email:** sameermd1857978@gmail.com
+
+**
